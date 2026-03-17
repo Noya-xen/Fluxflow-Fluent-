@@ -1,10 +1,10 @@
 # 🔷 FluxFlow Auto Bot — Swap & Liquidity
 
-> Testnet bot untuk [app.fluxflow.fi](https://app.fluxflow.fi) di Fluent Testnet (chainId: 20994)  
+> Testnet bot untuk [app.fluxflow.fi](https://app.fluxflow.fi/points?ref=TVSJ) di Fluent Testnet 
 > Auto-swap ETH↔fUSD + Add Concentrated Liquidity V3 untuk farming points  
 > by **Noya-xen** • [github.com/Noya-xen](https://github.com/Noya-xen)
 
-link projek : *(isi secara manual di GitHub)*
+link projek: https://app.fluxflow.fi/points?ref=TVSJ
 
 ---
 
