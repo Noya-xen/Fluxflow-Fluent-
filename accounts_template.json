@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Akun 1",
+    "privateKey": "0x_PRIVATE_KEY_KAMU_1",
+    "proxy": null
+  },
+  {
+    "name": "Akun 2",
+    "privateKey": "0x_PRIVATE_KEY_KAMU_2",
+    "proxy": "http://user:pass@ip:port"
+  }
+]
