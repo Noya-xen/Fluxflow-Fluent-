@@ -1,0 +1,44 @@
+{
+  "network": {
+    "name": "Fluent Testnet",
+    "rpc": "https://rpc.testnet.fluent.xyz",
+    "chainId": 20994,
+    "symbol": "ETH",
+    "explorer": "https://testnet.fluentscan.xyz"
+  },
+  "contracts": {
+    "swapRouter": "0x69Be606be7Fd2d27C8f9821329c748c77d24FF4f",
+    "nftPositionManager": "0x8a82fC5f9EFF14B3e5A31dcCB04873a97AE4be92",
+    "factory": "0xC64f4F7FB80AbE310E6cB178c58a01296cE85Abb",
+    "quoter": "0x2853645B3362Cc7460AEaaB2b30BBd12a2F8e099",
+    "weth": "0x3d38e57b5d23c3881affb8bc0978d5e0bd96c1c6"
+  },
+  "tokens": {
+    "WETH": "0x3d38e57b5d23c3881affb8bc0978d5e0bd96c1c6",
+    "fUSD": "0x7A9ab9D0E2ca7472d1339F082F79F2F712F8Ebc9",
+    "WBTC": "0x14F1420523B0b99BDB32b5190298f6112638c93A"
+  },
+  "settings": {
+    "swapAmountETH": "0.002",
+    "swapAmountFUSD": "5",
+    "swapAmountWBTC": "0.00005",
+    "swapCount": 2,
+    "slippageBps": 100,
+    "liquidityAmountETH": "0.0005",
+    "liquidityAmountFUSD": "3",
+    "liquidityRangeTicks": 600,
+    "defaultFee": 3000,
+    "gasLimit": 500000,
+    "delayBetweenSwapsMs": 8000,
+    "delayBetweenAccountMs": 15000,
+    "runOnSchedule": false,
+    "scheduleTime": "07:30",
+    "timezone": "Asia/Jakarta",
+    "isLooping": true,
+    "loopWaitHours": 24,
+    "swapMode": "both"
+  },
+  "api": {
+    "baseUrl": "https://app.fluxflow.fi/api/trpc"
+  }
+}
